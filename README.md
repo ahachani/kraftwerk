@@ -46,7 +46,7 @@ The drivers who accepted the CoffeeHouse coupons are most likely either:
 
 ## Features
 
-List the main features or functionalities of your project.
+As follow the list of the main features/functionalities of our study:
 
 - ### Problem Presentation:
   includes (Read the data, Investigatation the dataset for missing or problematic data, Decide what to do about your missing data -- drop, replace, other etc.,  proportion of the total observations chose to accept the coupon?, Use a bar plot to visualize the coupon column, Use a histogram to visualize the temperature column)
