@@ -101,6 +101,72 @@ Once you have installed Kraftwerk, here's how you can use it:
     Continue refining your workflow and utilizing Kraftwerk's features as needed for your data processing and machine learning tasks.
 
 
+## Contributing
+
+We welcome contributions from the community to improve Kraftwerk. To contribute, please follow these steps:
+
+1. **Fork the Repository:**
+    Fork the Kraftwerk repository to your GitHub account by clicking on the 'Fork' button at the top right of the repository page.
+
+2. **Clone the Forked Repository:**
+    Clone your forked repository to your local machine:
+    ```bash
+    git clone https://github.com/your-username/kraftwerk.git
+    ```
+
+3. **Create a Branch:**
+    Create a new branch to work on your changes:
+    ```bash
+    git checkout -b feature-branch
+    ```
+
+4. **Make Changes:**
+    Make the necessary changes, improvements, or additions to the codebase.
+
+5. **Commit Changes:**
+    Commit your changes with descriptive commit messages:
+    ```bash
+    git add .
+    git commit -m "Add feature XYZ"
+    ```
+
+6. **Push Changes:**
+    Push your changes to your forked repository:
+    ```bash
+    git push origin feature-branch
+    ```
+
+7. **Create a Pull Request:**
+    Go to the GitHub repository and create a Pull Request (PR) from your forked repository.
+    - Describe the changes made and their purpose clearly in the PR description.
+    - Mention any related issues if applicable.
+
+8. **Review and Collaborate:**
+    Participate in discussions related to your PR and make necessary changes based on feedback received.
+
+9. **Continuous Integration (CI) Checks:**
+    Ensure that your changes pass any automated tests or CI checks set up for the repository.
+
+10. **Merge Pull Request:**
+    Once your PR is reviewed and approved, it will be merged into the main repository.
+
+Thank you for contributing to Kraftwerk!
+
+## License
+
+Kraftwerk is licensed under the MIT License.
+
+---
+
+MIT License
+
+Copyright (c) [2023] [Adel Hachani]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
