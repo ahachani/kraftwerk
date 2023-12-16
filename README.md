@@ -48,9 +48,13 @@ The drivers who accepted the CoffeeHouse coupons are most likely either:
 
 List the main features or functionalities of your project.
 
-- Feature 1
-- Feature 2
-- ...
+- ### Problem Presentation:
+  includes (Read the data, Investigatation the dataset for missing or problematic data, Decide what to do about your missing data -- drop, replace, other etc.,  proportion of the total observations chose to accept the coupon?, Use a bar plot to visualize the coupon column, Use a histogram to visualize the temperature column)
+- ### Investigating the Bar Coupons:
+  (Create a new DataFrame that contains just the bar coupons, What proportion of bar coupons were accepted?, Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more, Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others. Is there a difference?, Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry and Comparsion of  the acceptance rates between different kind of drivers, and Based on these observations, what do you hypothesize about drivers who accepted the bar coupons?)
+- ### Independent Investigation: Investigation of  the Coffee House Coupons:
+  USe of the same methodoloy as the Bar coupons and study of the data to find new combinations of the acceptance rates
+
 
 ## Installation
 
