@@ -53,7 +53,7 @@ As follow the list of the main features/functionalities of our study:
 - ### Investigating the Bar Coupons:
   (Create a new DataFrame that contains just the bar coupons, What proportion of bar coupons were accepted?, Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more, Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others. Is there a difference?, Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry and Comparsion of  the acceptance rates between different kind of drivers, and Based on these observations, what do you hypothesize about drivers who accepted the bar coupons?)
 - ### Independent Investigation: Investigation of  the Coffee House Coupons:
-  USe of the same methodoloy as the Bar coupons and study of the data to find new combinations of the acceptance rates
+  USe of the same methodoloy as the Bar coupons and study of the data to find new combinations of the acceptance rates for coffee house coupons
 
 
 ## Installation
