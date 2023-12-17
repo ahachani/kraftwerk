@@ -1,4 +1,4 @@
-# Project Title: Will a Customer Accept the Coupon?
+# Project Title: Will a Customer Accept the Coupons?
 
 This repository contains an analysis of customer behavior regarding coupon acceptance while driving. The project aims to understand the factors influencing whether a driver accepts a coupon delivered to their phone for various establishments, such as restaurants, bars, and coffee houses
 
@@ -27,7 +27,7 @@ The final report highlights differences between customers who accepted and those
 ### Data Description
 The attributes in the dataset include user demographics, driving context, and coupon attributes, providing insights into user behaviors and preferences in accepting coupons.
 
-### Hypotheses and Acceptance Rates for "Bar" coupon
+### Hypotheses and Acceptance Rates for "Bar" coupons
 #### Hypothesis: Drivers accepting Bar coupons might be influenced by factors like age, marital status, and frequency of visits.
 #### Acceptance rate for drivers who go to Bar:
  Based on the observations, The drivers who accepted the bar coupons are most likely either (for Acceptance rate more than 50%):
@@ -38,7 +38,7 @@ The attributes in the dataset include user demographics, driving context, and co
  - Drivers over 25 visiting a bar more than once a month (Acceptance rate of  69.52 %)
  - Drivers who went to a bar more than 3 times a month (Acceptance rate of 76.88%)
 
-### Hypotheses and Acceptance Rates for "Coffee House" coupon
+### Hypotheses and Acceptance Rates for "Coffee House" coupons
 #### Hypothesis: Drivers accepting CoffeeHouse coupons might be influenced by factors like age, marital status, and frequency of visits.
 #### Acceptance rate for drivers who go to CoffeeHouse:
   Based on the observations, The drivers who accepted the Coffee House coupons are most likely either (for Acceptance rate more than 50%):
