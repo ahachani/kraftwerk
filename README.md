@@ -30,20 +30,34 @@ The attributes in the dataset include user demographics, driving context, and co
 ### Hypotheses and Acceptance Rates for "Bar" coupon
 #### Hypothesis: Drivers accepting Bar coupons might be influenced by factors like age, marital status, and frequency of visits.
 #### Acceptance rate for drivers who go to Bar:
-The drivers who accepted the bar coupons are most likely either:
--  Drivers who go to bars more than once a month and are under the age of 30 and (Acceptance rate = 71.32 %)
--  Drivers who go to bars more than once a month, passengers not kids, and not widowed (Acceptance rate = 72.17 %)
+ Based on the observations, The drivers who accepted the bar coupons are most likely either (for Acceptance rate more than 50%):
+ - Drivers who go to bars more than once once a month, passengers not kids, and not widowed (Acceptance rate of 71.32%)
+ - Drivers who go to bars more than once once a month and are under the age of 30 (Acceptance rate of 72.17%)
+ - Drivers who go to bars more than once a month and had passengers that were not kids and 
+   had occupations other than farming, fishing, or forestry (Acceptance rate of 68.79 %)
+ - Drivers over 25 visiting a bar more than once a month (Acceptance rate of  69.52 %)
+ - Drivers who went to a bar more than 3 times a month (Acceptance rate of 76.88%)
 
 ### Hypotheses and Acceptance Rates for "Coffee House" coupon
 #### Hypothesis: Drivers accepting CoffeeHouse coupons might be influenced by factors like age, marital status, and frequency of visits.
 #### Acceptance rate for drivers who go to CoffeeHouse:
-The drivers who accepted the CoffeeHouse coupons are most likely either:
- - Less than 21 years old, single, visiting less than once or more (Acceptance rate = 74.157 %)
-- Visiting at least once, at 10 AM, with income between $59K to $62.5K (Acceptance rate = 80 %)
-- Female drivers with children and specific occupations (Construction & Extraction, Architecture & Engineering, Protective Service,  and Healthcare Support) (Acceptance rate = 75.00 %)
+  Based on the observations, The drivers who accepted the Coffee House coupons are most likely either (for Acceptance rate more than 50%):
+   - Drivers who go to CoffeeHouse more than once a month, less than 21 and single (Acceptance rate of 74.16%), OR
+   - Drivers who go to CoffeeHouse at least once or more, go at 10am  and income between 59K to 62.5K (Acceptance rate of 80 %), OR
+   - Female drivers who has children with occupation are Construction & Extraction OR Architecture & Engineering
+     OR Protective Service OR Healthcare Support (Acceptance rate of 75.00 %), OR
+   - Drivers who go to CoffeeHouse more than once a month and are under the age of 30 (Acceptance rate of 82.79%), OR
+   - Drivers who go to CoffeeHouse more than once a month and had passengers that were not a kid and were not widowed (Acceptance rate of 66.08%), OR
+   - Drivers who go to cheap restaurants more than 4 times a month and have an income less than 50K (Acceptance rate of 59.57%), OR
+   - Drivers who go to CoffeeHouse more than once a month and had passengers that were not kids 
+     and had occupations other than farming, fishing, or forestry (Acceptance rate of 66.02 %), OR
+   - Drivers over 25 visiting a CoffeeHouse more than once a month (Acceptance rate of 63.84%), OR
+   - Drivers who went to a Coffee House more than 3 times a month (Acceptance rate of 67.50%)
+
 
 ### Conclusion
-The analysis explores several conditions affecting coupon acceptance, providing insights into customer behavior regarding various establishment coupons (Bar and Coffee ouse) while driving.
+The analysis explores several conditions affecting coupon acceptance, providing insights into customer behavior regarding various establishment coupons (Bar and Coffee house) while driving.
+
 
 
 
